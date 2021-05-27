@@ -1,4 +1,3 @@
-# odoo_training
 ## Odoo开发培训
 讲师介绍
 
